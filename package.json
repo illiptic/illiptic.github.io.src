@@ -3,8 +3,8 @@
   "description": "github page",
   "license": "MIT",
   "repository": {
-	"type": "git",
-	"url": "https://github.com/illiptic/illiptic.github.io.git"
+  	"type": "git",
+  	"url": "https://github.com/illiptic/illiptic.github.io.git"
   },
   "devDependencies": {
     "apache-server-configs": "^2.7.1",
